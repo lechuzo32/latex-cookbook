@@ -2,8 +2,8 @@
 
 [![Download PDF](https://img.shields.io/badge/Download-PDF-blue.svg)][download]
 
-This repo contains a [LaTeX document](cookbook.tex), usable as a cookbook (different "recipes" to achieve various things in LaTeX) as well as as a template.
-The resulting PDF covers LaTeX-specific topics and instructions on compiling the LaTeX source.
+Este repositorio contiene un documento [LaTeX document](cookbook.tex), usable como un libro de diferentes "recetas" para alcanzar varios objetivos en LaTeX y también hay plantillas.
+El documento .PDF resulta eb tópicos específicos de LaTeX e instrucciones para compilar las fuentes LaTeX.
 
 See the [releases page](https://github.com/alexpovel/latex-cookbook/releases) for more downloads.
 
