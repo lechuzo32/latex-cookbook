@@ -1,5 +1,5 @@
 # Content files
 
-This directory contains all the source `tex` files with the document content.
-Splitting up files, putting them here and then running `\import` or `\subimport` on them is a good way of modularisation.
-It allows to compile only what is needed by commenting out unneeded `\(sub)import` statements, greatly speeding up compilation times.
+Este directorio contiene todos los archivos fuente `tex` con los contenidos del documento.
+La separación de los archivos, colocándolos aquí y ejecutando `\import` o `\subimport` es una buena manera de modular.
+Permite compilar sólo lo que se necesita comentando lo que se no necesita `\(sub)import`, aumentando la velocidad de compilación.
