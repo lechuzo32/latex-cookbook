@@ -1,4 +1,4 @@
-# Content files
+# Archivos incluidos
 
 Este directorio contiene todos los archivos fuente `tex` con los contenidos del documento.
 La separación de los archivos, colocándolos aquí y ejecutando `\import` o `\subimport` es una buena manera de modular.
