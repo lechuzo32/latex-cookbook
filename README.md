@@ -2,23 +2,17 @@
 
 [![Download PDF](https://img.shields.io/badge/Download-PDF-blue.svg)][download]
 
-Este repositorio contiene un documento [LaTeX document](cookbook.tex), usable como un libro de diferentes "recetas" para alcanzar varios objetivos en LaTeX y también hay plantillas.
+Este repositorio contiene un [documento LaTeX](cookbook.tex), usable como un libro de diferentes "recetas" para alcanzar varios objetivos en LaTeX y también hay plantillas.
 El documento .PDF resulta eb tópicos específicos de LaTeX e instrucciones para compilar las fuentes LaTeX.
 
-See the [releases page](https://github.com/alexpovel/latex-cookbook/releases) for more downloads.
+Ver las [páginas de versiones](https://github.com/alexpovel/latex-cookbook/releases) para más descargas.
 
-> [!IMPORTANT]
-> This project is not archived, and [issues are still
-> addressed](https://github.com/alexpovel/latex-cookbook/issues/17). However, the
-> document is regarded as "done" and no new feature development actively happens. As LaTeX is a glacially slow-moving target, the document
-> should be useful, valid and buildable for many years to come still.
+> [¡IMPORTANTE!]
+> Este proyecto *no* está archivado, y aún aparecen ciertos [problemas](https://github.com/alexpovel/latex-cookbook/issues/17). Sin embargo, el documento está marcado como "terminado" y no hay nuevas características en desarrollo. Como LaTeX es una movimiento lento, el documento debería ser útil y válido durante muchos años más.
 >
-> There is a [fork
-> maintained](https://collaborating.tuhh.de/m21/public/theses/itt-latex-template) by
-> former coworkers of the author, at the research institute this template originated
-> from as well. Active development is still happening there.
+> Hay un [fork mantenido](https://collaborating.tuhh.de/m21/public/theses/itt-latex-template) por anteriores colegas del autor, en el instituto de invstigación en el cual se generó esta plantilla. Aún hay desarrollos en actividad.
 
-## Getting started
+## Inicio
 
 After installing [Docker](https://www.docker.com/) (and git), building works out of the
 box:
